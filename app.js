@@ -45,6 +45,7 @@ createApp({
             styles: {
                 backgroundColor: '#1f1f1f',
                 color: '#fff',
+                transition: '1s'
             }
         }
     },
