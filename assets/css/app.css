@@ -1,0 +1,17 @@
+.star {
+    color: yellow;
+}
+.star:hover {
+    color: darkorange;
+}
+
+.optCart {
+    text-decoration: none;
+}
+.night {
+    color: darkmagenta;
+}
+
+.night:hover {
+    color: black;
+}
